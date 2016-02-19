@@ -12,8 +12,8 @@ UCLASS()
 class TESTGIT2_API AGameModeROdrigue : public AGameMode
 {
 	GENERATED_BODY()
-	
-	
+
+	float myVariableTest;
 	
 	
 };
